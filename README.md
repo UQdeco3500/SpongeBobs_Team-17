@@ -5,4 +5,4 @@ Click the "Play" Button on the Up_Right Corner!
 
 3. KickStarter Video: https://drive.google.com/file/d/1BxJ_2CBdEj-wj_vpeCqgxKihnKaENTB_/view?usp=sharing
    
-4. Please move to Wiki for detail of our Project!
+4. Please move to `Wiki` for detail of our Project!
